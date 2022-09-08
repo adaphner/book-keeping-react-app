@@ -10,7 +10,7 @@ function NavBar() {
             </div>
             <header>
                 <div className='logo'>
-                    <h1>WebDevIo.com</h1>
+                    <h1>BOOKKS</h1>
                 </div>
                 <nav className='nav-links'>
                     <Link to="/">Home</Link>
