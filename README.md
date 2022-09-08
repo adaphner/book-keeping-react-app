@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Book Keeping | React App
+
+![book-keeping](https://user-images.githubusercontent.com/42874648/189107635-5ff2a1df-8601-4ae2-88c6-0f2560292965.PNG)
+
+This application keep tracks of a company's expense. Users are able look up and filter through all the invoices. Payments information are displayed when an invoice is clicked on.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
