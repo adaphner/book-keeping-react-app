@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Book Keeping | React App
+
+![bookks](https://user-images.githubusercontent.com/42874648/189119774-565077a0-70ad-4458-8f41-287421be2b50.PNG)
+
+## BOOKKS | Book Keeping Made Easy.
+
+This application keep tracks of a company's expense. Users are able look up and filter through all the invoices. Payments information are displayed when an invoice is clicked on.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
